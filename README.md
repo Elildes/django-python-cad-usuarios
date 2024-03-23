@@ -23,13 +23,11 @@ git commit -m "create project python with django"
 **Comandos diversos**  
 
 No terminal é possível aplicar vários comandos no desenvolvimento da aplicação web com o framework Django.
-```
-cd .\projeto_cad_usuarios\
-python .\manage.py runserver
-python .\manage.py makemigrations
-python .\manage.py makemigrations
-python .\manage.py migrate
-```
+
+`cd .\projeto_cad_usuarios\`  
+`python .\manage.py runserver` - roda o server  
+`python .\manage.py makemigrations` - roda o banco de dados  
+`python .\manage.py migrate`
 
 . Adicionando as alterações no repo git:  
 ```
