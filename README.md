@@ -27,7 +27,7 @@ No terminal é possível aplicar vários comandos no desenvolvimento da aplicaç
 `cd .\projeto_cad_usuarios\`  
 `python .\manage.py runserver` - roda o server  
 `python .\manage.py makemigrations` - roda o banco de dados  
-`python .\manage.py migrate`
+`python .\manage.py migrate` - enviar ao banco de dados  
 
 . Adicionando as alterações no repo git:  
 ```
